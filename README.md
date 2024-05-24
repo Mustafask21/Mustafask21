@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Mustafa! 👋
 
-<!--
-**Mustafask21/Mustafask21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🎓 I'm a 3rd year Software Engineering student at Fırat University.
+- 💻 I'm specializing in front-end development.
+- 🌱 Currently, I'm working on projects with **React** and **Bootstrap**.
+- 🌟 My technical skills: HTML, CSS, Bootstrap, React
+- 📫 Contact me: mustafaergunsk@gmail.com
 
-Here are some ideas to get you started:
+## My GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects I'm Interested In
+- [Dynamic Earthquake Map]: Confidential 😉
+- [Cointracker]: Confidential 😉
+
+## Links
+- [LinkedIn]([your_linkedin_profile_link](https://www.linkedin.com/in/mustafa-erg%C3%BCn-478440195/))
+- [Personal Website](codedeleter.com)
