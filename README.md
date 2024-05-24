@@ -8,7 +8,7 @@
 - 📫 Contact me: mustafaergunsk@gmail.com
 
 ## My GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mustafask21&show_icons=true&theme=radical)
 
 ## Projects I'm Interested In
 - [Dynamic Earthquake Map]: Confidential 😉
