@@ -1,7 +1,7 @@
 # Hi, I'm Mustafa! 👋
 
 ## About Me
-- 🎓 I'm a 3rd year Software Engineering student at Fırat University.
+- 🎓 I'm a 4rd year Software Engineering student at Fırat University.
 - 💻 I'm specializing in front-end development.
 - 🌱 Currently, I'm working on projects with **React** and **Bootstrap**.
 - 🌟 My technical skills: HTML, CSS, Bootstrap, React
